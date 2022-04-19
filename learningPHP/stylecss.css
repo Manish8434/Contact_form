@@ -1,0 +1,26 @@
+body{
+    background-image: url(./image/image001.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#ui{
+    background-color: #85929E;
+    border-radius: 15px;
+    padding: 30px;
+    margin-top: 50px;
+    opacity: 0.9;
+}
+#ui label{
+color: #fff;
+}
+#ui h1{
+    color: #fff;
+}
+.error{
+    color:red;
+}
+
+.new_para{
+    color:#2ECC71;
+}
